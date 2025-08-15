@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /assets/
+Allow: /
+
+# Allow specific pages for indexing
+Allow: /index.html
+Allow: /cupcakes.html
+Allow: /custom-cupcake-packs.html
+Allow: /corporate-gifting.html
+Allow: /shopping-cart.html
+
+# Sitemap location
+Sitemap: https://maryjainrj.github.io/wickedgourmentcupcake/sitemap.xml
